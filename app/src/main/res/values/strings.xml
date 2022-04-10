@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Homework20</string>
 
-    <string name="fragment_main_button_get_dog_picture">Тык</string>
+    <string name="fragment_main_button_get_dog_picture">Увидеть картинку</string>
 </resources>
