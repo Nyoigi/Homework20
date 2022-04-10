@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Homework20</string>
+
+    <string name="fragment_main_button_get_dog_picture">Тык</string>
+</resources>
